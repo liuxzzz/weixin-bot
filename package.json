@@ -1,0 +1,15 @@
+{
+  "name": "webot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weBot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wechaty": "^1.20.2"
+  }
+}
