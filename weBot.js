@@ -1,8 +1,10 @@
 import { WechatyBuilder } from "wechaty";
 import { defaultMessage } from "./sendMessage.js";
+import { getUndoMessage } from "./getUndoMessage.js";
 
 const onMessage = async (message) => {
   await defaultMessage(message);
+  // await getUndoMessage(message);
 };
 
 const wechaty = WechatyBuilder.build(); // get a Wechaty instance

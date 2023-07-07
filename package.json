@@ -5,6 +5,7 @@
   "main": "weBot.js",
   "type": "module",
   "scripts": {
+    "start": "node weBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
