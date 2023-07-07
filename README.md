@@ -2,7 +2,7 @@
 
 防 sb 艾特机器人
 
-# Getting Started
+## Getting Started
 
 ```
 npm i
